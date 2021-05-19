@@ -1,3 +1,5 @@
+#python 3.6
+
 import boto3
 import json
 
